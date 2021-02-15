@@ -26,7 +26,7 @@ Time spent : 6 hours spent in total
 
 ### App Walkthough GIF
 
-<img src="Flixsterapp.gif" width=250><br>
+<img src="Flixsterapp.gif" width=500><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
